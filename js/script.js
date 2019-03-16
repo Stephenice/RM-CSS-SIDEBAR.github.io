@@ -15,16 +15,3 @@ $('.js--nav-icon').click(function() {
         icon.removeClass('fa-times');
     }      
   });
-
-
-//   $("#button").click(function(){
-//     $("#img1").animate({width: 'toggle'});
-// });
-
-//   $(document).ready(function(){
-//     $(".slide-toggle").click(function(){
-//       $(".box").animate({
-//         width: "toggle"
-//       });
-//     });
-//   });
